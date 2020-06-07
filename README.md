@@ -19,22 +19,8 @@
 
 ### IIDX
 
- The following must be adhered to:
-| Joystick Button | SDVX Key |
-|:---------------:|:--------:|
-| B1              | KEY 1    |
-| B2              | KEY 2    |
-| B3              | KEY 3    |
-| B4              | KEY 4    |
-| B5              | KEY 5    |
-| B6              | KEY 6    |
-| B7              | KEY 7    |
-| B9              | KEY E1   |
-| B10             | KEY E2   |
-| B11             | KEY E3   |
-| B12             | KEY E4   |
-| X-AXIS          | TT       |
-
+ At this time I am unsure of the controller mapping-- a PR with the correct keys would be appreciated!
+ 
 ### SDVX
 
  The following must be adhered to:
@@ -47,8 +33,7 @@
 | B5              | FX L     |
 | B6              | FX R     |
 | B9              | START    |
-| X-AXIS          | VOL-L    |
-| Y-AXIS          | VOL-R    |
+
 
 ## HOW TO REVERT
 

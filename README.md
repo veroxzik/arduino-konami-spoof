@@ -20,7 +20,7 @@
 ### IIDX
 
  The following must be adhered to:
-| Joystick Button | SDVX Key |
+| Joystick Button | IIDX Key |
 |:---------------:|:--------:|
 | B1              | KEY 1    |
 | B2              | KEY 2    |
